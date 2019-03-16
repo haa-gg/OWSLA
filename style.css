@@ -40,6 +40,7 @@ body {
 		font-size:12rem;
 		z-index:100;
 		-webkit-backface-visibility: hidden;
+		line-height:90%;
 	}
 
 	.z-100{
