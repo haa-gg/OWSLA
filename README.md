@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/UymCzd1_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
+![alt text](https://i.imgur.com/tAizPmo.jpg)
 
 # WildMagic
 A stylish way to roll a wild magic surge from D&amp;D 5e, check it out here: https://haa-gg.github.io/WildMagic/
